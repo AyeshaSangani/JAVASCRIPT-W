@@ -1,0 +1,5 @@
+var a = "welcome";   [STRING]
+var b ="1000";       [INTEGER]
+var c ="A";          [CHARACTER]
+var d =1.2345;       [FLOAT]
+var e =67.23450876;  [DOUBLE (double value of float)]
